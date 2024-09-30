@@ -35,6 +35,10 @@ To predict whether a person has diabetes based on several medical predictor vari
    - The deep learning model was trained, validated, and tested. Performance metrics such as accuracy, precision, recall, and F1-score were used to evaluate both machine learning and deep learning models.
    - Although the deep learning model was promising, the **Random Forest** classifier provided the best accuracy overall.
 
+## Conclusion
+The project concluded with the Random Forest model as the most accurate, achieving 98.79% accuracy in predicting Diabetes.
+
+
 # 2. Twitter Suicidal Ideation Detection Using Machine Learning and Deep Learning
 
 ## Objective
