@@ -75,10 +75,3 @@ To detect potential suicidal ideation from tweets using both classical machine l
 
 ## Conclusion
 The project concluded with the **BERT** model as the most accurate, achieving 98% accuracy in detecting suicidal ideation from tweets.
-
-
-
-**Twitter Suicidal Ideation Detection:** Support mental health with Twitter Suicidal Ideation Detection. Use natural language processing techniques to identify signs of potential suicidal ideation, offering early intervention and support.
-
-**Credit Card Fraud Detection:** Safeguard financial transactions with Credit Card Fraud Detection. Employ machine learning and deep learning to detect and prevent fraudulent activities, providing secure payment environments.
-
